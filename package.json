@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.15.3",
+    "setimmediate": "~1.0.5",
+    "uuid": "~3.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "~6.25.0",
+    "browserify": "~14.4.0",
+    "eslint": "~4.3.0",
+    "eslint-config-vynyl": "~3.1.1",
+    "uglify": "~0.1.5"
+  }
+}

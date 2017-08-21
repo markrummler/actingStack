@@ -1,0 +1,4 @@
+# Ignore patterns behave according to the .gitignore specification
+# http://eslint.org/docs/user-guide/configuring#ignoring-files-and-directories
+
+public/
